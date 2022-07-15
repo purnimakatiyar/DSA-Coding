@@ -8,16 +8,3 @@ public:
 };
 
 
-void main()
-{
-    string a,b;
-    int n,m;
-    n=a.length();
-    m=b.length();
-    cin.getline(a,n);
-    cin.getline(b,m);
-    rotateString(a,b);
-    
-
-
-}
